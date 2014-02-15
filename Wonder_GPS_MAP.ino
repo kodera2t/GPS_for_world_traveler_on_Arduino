@@ -1,3 +1,9 @@
+/*
+ * GPS Navigator program on Arduino IDE
+ *
+ *  Created on: Feb. 15 , 2014
+ *      Author: kodera2t
+ */
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h>
 #include <UTFT.h>
